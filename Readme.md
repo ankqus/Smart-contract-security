@@ -5,6 +5,7 @@ A collection of resources on smart contract security. Feel free to add additiona
 - [List of smart contract vulnerabilities](https://github.com/runtimeverification/verified-smart-contracts/wiki/List-of-Security-Vulnerabilities)
 ### Blogs
 - [Immunefi's blog](https://immunefi.medium.com/)
+- https://samczsun.com/
 ### Audit reports 
 - https://github.com/lucash-dev/eth-audits/blob/main/audit1v2.pdf
 - [Apple finance](https://certik-public-assets.s3.amazonaws.com/REP-AppleFinance-2021-06-15.pdf)
