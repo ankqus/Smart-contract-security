@@ -4,9 +4,10 @@ A collection of resources on smart contract security. Feel free to add additiona
 
 - [List of smart contract vulnerabilities](https://github.com/runtimeverification/verified-smart-contracts/wiki/List-of-Security-Vulnerabilities)
 ### Blogs
-- [Immunefi blog](https://immunefi.medium.com/)
+- [Immunefi's blog](https://immunefi.medium.com/)
 ### Audit reports 
--
+- (https://github.com/lucash-dev/eth-audits/blob/main/audit1v2.pdf)
+- 
 ### Playground
 - [Openzeppelin war game](https://ethernaut.openzeppelin.com/)
 - [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com/#/)
