@@ -10,6 +10,7 @@ A collection of resources on smart contract security. Feel free to add additiona
 - [Apple finance](https://certik-public-assets.s3.amazonaws.com/REP-AppleFinance-2021-06-15.pdf)
 - [MakerDAO](https://certificate.quantstamp.com/full/maker-dao-liquidations-2-0)
 - [Idlefinance](https://certificate.quantstamp.com/full/idle-finance)
+- [Instadapp](https://www.google.com/amp/s/blog.openzeppelin.com/instadapp-audit/amp/)
 ### Playground
 - [Openzeppelin war game](https://ethernaut.openzeppelin.com/)
 - [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com/#/)
